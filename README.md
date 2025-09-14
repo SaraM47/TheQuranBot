@@ -1,4 +1,4 @@
-# Qur'an Discord Audio Bot 🎵
+# Qur'an Discord Audio Bot 
 
 A modern Discord bot that plays complete Qur'an surahs with multiple reciters.  
 Built with **Node.js**, **Discord.js v14**, and **@discordjs/voice**.
